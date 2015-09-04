@@ -3,5 +3,46 @@
   "repo": "borisyankov/DefinitelyTyped",
   "ref": "master",
   "path": "<%- props.paths.tmp %>/typings",
-  "bundle": "<%- props.paths.tmp %>/typings/tsd.d.ts"
+  "bundle": "<%- props.paths.tmp %>/typings/tsd.d.ts",
+  "installed": {
+    "angularjs/angular.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "karma-jasmine/karma-jasmine.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "moment/moment.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "moment/moment-node.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "angular-ui-bootstrap/angular-ui-bootstrap.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "angular-ui-router/angular-ui-router.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "angularjs/angular-animate.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "angularjs/angular-sanitize.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "angularjs/angular-cookies.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "angularjs/angular-resource.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "angularjs/angular-mocks.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "d9fea91e842c2cf5bd0f7d861ac378e571d2ad7c"
+    }
+  }
 }

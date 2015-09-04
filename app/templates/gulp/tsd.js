@@ -27,6 +27,7 @@ gulp.task('tsd:install', function () {
   options.resolveDependencies = true;
   options.overwriteFiles = true;
   options.saveBundle = true;
+  options.saveToConfig = true;
 
   return tsdApi.readConfig()
     .then(function () {
